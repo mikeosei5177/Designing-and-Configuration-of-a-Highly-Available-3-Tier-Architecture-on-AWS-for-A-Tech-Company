@@ -4,10 +4,15 @@ Designing and Configuration of a Highly  Available 3-Tier Architecture on AWS Fo
 Overview
 This project involved the design and manual deployment of a highly available 3-tier architecture on AWS, demonstrating expertise in cloud infrastructure and service integration. Using the AWS Management Console, I created a secure and scalable environment that included:
 •	A custom VPC for isolated networking.
+
 •	A bastion host for controlled access to private resources.
+
 •	A web server for user-facing services.
+
 •	An application server to manage business logic.
+
 •	A RDS database for reliable data management.
+
 The project highlights my ability to build robust cloud solutions, focusing on high availability, security, and performance.
 
 Technologies Used
